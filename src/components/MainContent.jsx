@@ -16,7 +16,7 @@ export default function MainContent(props){
                             <i className="fa-solid fa-location-dot"></i>
                             <small>{props.cardInfo.title}</small>
                         </div>
-                        <a href="#">View on Google Maps</a>
+                        <a href={props.cardInfo.googleMapsUrl}>View on Google Maps</a>
                     </div>
                     <h1>{props.cardInfo.location}</h1>
                     <strong>{props.cardInfo.startDate}-{props.cardInfo.endDate}</strong>

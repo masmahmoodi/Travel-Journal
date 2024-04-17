@@ -1,7 +1,7 @@
 export default [
     {
-        title: "Darh Noor",
-        location: "Laghman",
+        title: "Laghman",
+        location: "Dara-E Noor",
         googleMapsUrl: "https://goo.gl/maps/1DGM5WrWnATgkSNB8",
         startDate: "12 Jan, 2021",
         endDate: "24 Jan, 2021",
@@ -11,7 +11,7 @@ export default [
     {
         title: "Badakhshan",
         location: "Wakhan",
-        googleMapsUrl: "https://source.unsplash.com/JmuyB_LibRo",
+        googleMapsUrl: "https://goo.gl/maps/1DGM5WrWnATgkSNB8",
         startDate: "15 Jan, 2022",
         endDate: "29 Jan, 2024",
         description: "The Wakhan Corridor is a narrow strip of land in northeastern Afghanistan's Badakhshan Province.",
@@ -20,7 +20,7 @@ export default [
     {
         title: "Nuristan",
         location: "Paroon",
-        googleMapsUrl: "https://source.unsplash.com/JmuyB_LibRo",
+        googleMapsUrl: "https://goo.gl/maps/1DGM5WrWnATgkSNB8",
         startDate: "20 Jan, 2016",
         endDate: "24 Jan, 2022",
         description: "It's situated in a picturesque valley surrounded by mountains.Parun, also spelled Paroon.",
